@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+chroma_db
+chat-with-pdf-demo.mp4
